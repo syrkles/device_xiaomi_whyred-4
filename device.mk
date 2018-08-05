@@ -237,10 +237,6 @@ PRODUCT_PACKAGES += \
     libandroid_net \
     netutils-wrapper-1.0
 
-# XiaomiParts
-PRODUCT_PACKAGES += \
-    XiaomiParts
-
 #FM
 PRODUCT_PACKAGES += \
     FM2 \
